@@ -1,0 +1,4 @@
+<launch>
+    <node name="HWTest4" pkg="test1" type="hw4test" output="screen"/>
+    <node name="hw4" pkg="test1" type="hw4" output="screen"/>
+</launch>
